@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with image generation and buttons",
+  "main": "bot.js", // Change this if your main file is named differently
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0", // Replace with the appropriate version for Discord.js v14
+    "canvas": "^2.8.0"
+  }
+}
